@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: SamsungB;
+    src: url(../fonts/samsungsharpsans-bold.otf);
+}
+
+@font-face{
+    font-family: SamsungM;
+    src: url(../fonts/samsungsharpsans-medium.otf);
+}
+
+@font-face{
+    font-family: MetropolisB;
+    src: url(../fonts/Metropolis-Bold.otf);
+}
